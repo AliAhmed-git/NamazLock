@@ -1,3 +1,4 @@
+<img width="1584" height="396" alt="Blue Simple Aesthetic Ramadan Kareem LinkedIn Banner" src="https://github.com/user-attachments/assets/6aff8047-d91b-442a-bd5a-250aef9cd045" />
 # NamazLock
 
 NamazLock is a lightweight Windows utility that automatically locks your PC during prayer (Namaz) times. The goal is simple: help you disconnect from screens and focus on prayer without distractions. Built with everyday Pakistani users in mind.
